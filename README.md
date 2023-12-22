@@ -1,3 +1,11 @@
+
+This is the project of react js-Day 2 Task 1
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
